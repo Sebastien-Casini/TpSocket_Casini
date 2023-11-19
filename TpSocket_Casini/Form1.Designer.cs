@@ -35,7 +35,7 @@ namespace TpSocket_Casini
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(425, 450);
             this.Name = "Form1";
             this.Text = "Communication par socket UDP";
             this.ResumeLayout(false);
